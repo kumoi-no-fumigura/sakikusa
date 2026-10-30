@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sakikusa",
  "yomi": "さきくさ",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌評",
+  "era": "江戸中期",
+  "author": "賀茂真淵（1697〜1769）",
+  "desc": "鶯・梅・霞などを詠んだ歌29首に、「千福枝」「百真福美枝」といった評点と短い評語を付けたもの。"
+ },
  "editions": [
   {
    "pid": "993380",
