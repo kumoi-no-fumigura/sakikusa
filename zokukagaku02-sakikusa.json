@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 4,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zokukagaku02-sakikusa-0001",
@@ -84,6 +87,7 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-11-02",
-  "updated_at": "2026-11-02T00:09:24+09:00"
+  "updated_at": "2026-11-02T00:09:24+09:00",
+  "yaku": 4
  }
 }
